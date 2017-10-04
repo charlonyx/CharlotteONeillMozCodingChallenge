@@ -1,0 +1,25 @@
+/*styles*/
+#page{
+	padding:20px;
+}
+th{
+	cursor:pointer;
+}
+#gap-percent-filter, #min-gap-filter, #search, #per_page{
+	display:inline-flex;
+	width:100%;
+	margin-bottom:20px;
+	line-height:35px;
+}
+#search input{
+    width: 500px;
+    margin: 0 10px;
+}
+#per_page input{
+	width:100px;
+	margin: 0 10px;
+}
+#gap_percent, #gap_number{
+	width:200px;
+	margin: auto 10px;
+}
